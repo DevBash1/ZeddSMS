@@ -1,0 +1,3 @@
+
+
+{"server":"ZEGLOHMTM","sim":"08076756427","to":"08076756427","recipient":"08076756427","sender":"GLO","from":"GLO","phone":"GLO","message":"500.00NGN transfered to your account from MSISDN 08054914518","keyword":null,"ref":"070520226276c42cb1ebf1651950636","date":"07-05-2022, 8:10 pm"}
